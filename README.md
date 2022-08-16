@@ -1,5 +1,5 @@
 
-![fondogithubsara](https://user-images.githubusercontent.com/104801269/184900660-0789bfe2-681f-418e-b929-a8ffd539f64e.jpg)
+![fondogit](https://user-images.githubusercontent.com/104801269/184901329-b987dfbe-db45-46af-aa45-9343230f7fc1.jpg)
 
 
 - 👋 Hi, I’m Sara Peromingo
@@ -10,7 +10,7 @@
 - Email: Sarap120298@gmail.com 
 - Instagram: @saraperomingo_
 
-![fondogithubsara](https://user-images.githubusercontent.com/104801269/184900660-0789bfe2-681f-418e-b929-a8ffd539f64e.jpg)
+![fondogit](https://user-images.githubusercontent.com/104801269/184901329-b987dfbe-db45-46af-aa45-9343230f7fc1.jpg)
 
 <!---
 Sarap120298/Sarap120298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
