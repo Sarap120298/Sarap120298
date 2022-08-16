@@ -1,5 +1,6 @@
 
-![linkedin](https://user-images.githubusercontent.com/104801269/184899073-7bd41840-fb91-45a9-b34e-bc4e857d69ac.jpg)
+![liiiiiiiiiinkedin](https://user-images.githubusercontent.com/104801269/184899666-a3e3f86c-c07f-42f2-b572-7da665fbef1c.jpg)
+
 
 - 👋 Hi, I’m Sara Peromingo
 - 👀 I’m interested in keep learning new programming languages.
