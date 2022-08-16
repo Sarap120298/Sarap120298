@@ -1,3 +1,6 @@
+
+![linkedin](https://user-images.githubusercontent.com/104801269/184899073-7bd41840-fb91-45a9-b34e-bc4e857d69ac.jpg)
+
 - 👋 Hi, I’m Sara Peromingo
 - 👀 I’m interested in keep learning new programming languages.
 - 🌱 I’m currently learning Javascript.
