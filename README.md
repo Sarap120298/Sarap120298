@@ -9,7 +9,7 @@
 - 💞️ I’m looking to grow in this industry and improve my knowledge.
 - 📫 How to reach me: 
 - Email: Sarap120298@gmail.com 
-- Instagram: @saraperomingo_
+- Instagram: @sarapero98
 
 
 DEVELOPMENT ENVIRONMENT:
